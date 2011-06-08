@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cronentries>
+	<cron>
+		<url>/gumtreescraper</url>
+		<description>Scrape the Gumtree website for keywords</description>
+		<schedule>every 30 minutes</schedule>
+	</cron>
+</cronentries>
